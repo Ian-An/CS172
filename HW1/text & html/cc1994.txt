@@ -1,0 +1,6 @@
+First Name: CiCi
+Last Name:Chen
+UserID: cc1994
+picture: http://rack.3.mshcdn.com/media/ZgkyMDEzLzA1LzE1LzJjL25ldGZsaXh0ZWxlLjFjODIzLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/ec749162/6f5/netflix-television.jpg
+url: https://www.netflix.com/browse
+description: Netflix and Chill!!!
